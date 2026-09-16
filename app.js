@@ -1,1 +1,1 @@
-console.log('Team Notes API');
+console.log('Team Notes API - Development Environment');
