@@ -1,1 +1,1 @@
-console.log('Hello, World! After commit changes');
+console.log('Team Notes API - Development Environment');
